@@ -20,12 +20,12 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Josh Nygaard"
-  role = "Programmer/developer, and culturally confused English North Dakotan."
+  role = "Software Engineer, Data Analyst, and culturally confused English North Dakotan."
   # organization = "Iteris, Inc."
   # organization_url = "https://iteris.com"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "squarePortrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "contact@joshnygaard.com"
+  email = "contact@JoshNygaard.com"
   address = "Pittsburgh, PA, USA"
   office_hours = false
   phone = false
