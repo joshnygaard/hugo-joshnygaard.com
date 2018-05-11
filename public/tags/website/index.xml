@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Website on Josh Nygaard</title>
+    <link>joshnygaard.com/tags/website/</link>
+    <description>Recent content in Website on Josh Nygaard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://github.com/joshnygaard/joshnygaard.github.io/blob/master/LICENSE&#34;&gt;© 2017 Josh Nygaard&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 14 Jul 2017 09:00:00 +0000</lastBuildDate>
+    <atom:link href="joshnygaard.com/tags/website/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My First Post</title>
+      <link>joshnygaard.com/post/first/</link>
+      <pubDate>Fri, 14 Jul 2017 09:00:00 +0000</pubDate>
+      
+      <guid>joshnygaard.com/post/first/</guid>
+      <description>&lt;p&gt;This is my first post on my first very own live, publically accessible website! I hope you all like it. The goal of this site is to demonstrate to myself that I have the capabilities to create a public-facing website by myself. In future posts I will discuss the steps and decision I made in the development of this site But at the moment I’m just excited to get it live!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
