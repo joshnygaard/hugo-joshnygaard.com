@@ -1,2 +1,2 @@
 # hugo-joshnygaard.com
-Soruce code for my personal website.
+Source code for my personal website.
