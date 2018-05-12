@@ -9,6 +9,3 @@
 	path = joshnygaard.github.io
 	url = git@github.com:joshnygaard/joshnygaard.github.io.git
 	branch = master
-[submodule "themes/--force"]
-	path = themes/--force
-	url = https://github.com/gcushen/hugo-academic.git
